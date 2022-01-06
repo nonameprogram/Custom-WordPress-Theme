@@ -1,0 +1,1 @@
+<script src="http://localhost/wordpress/wp-content/themes/customtheme/assets/js/bootstrap.min.js"></script>
